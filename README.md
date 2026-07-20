@@ -1,1 +1,3 @@
-This is a collection of python scripts used for opearational activities
+# SRE Broomstick
+
+Config-driven filesystem purge automation for DevOps/SRE cleanup jobs.
